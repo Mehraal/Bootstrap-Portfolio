@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: #028a81;
+    height: 100%;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h2 { 
+    padding: 40px;
+}
