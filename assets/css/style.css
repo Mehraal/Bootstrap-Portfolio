@@ -1,22 +1,25 @@
 body {
-    background-color: #777573;
-}
+    background-image: url("http://www.webdesignhot.com/wp-content/uploads/2011/12/Free-Abstract-Blue-Background-Vector-Graphic.jpg");
+   /* background-color: #777573; */
+} 
 
 .navbar {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .jumbotron {
-    background-color: #028a81;
-    height: 80%;
-    margin-top: 100px;
-    margin-left: 40px;
-    margin-right: 40px;
+    background-color: #606361;
+    height: 500px;
+    margin-top: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
+    opacity: 0.9;
 }
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
+    
 }
 
 h1 {
